@@ -45,4 +45,6 @@ Constantly learning, innovating, and pushing boundaries.
 </div>
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,prometheus,bash,gcp,terraform,ansible,aws,jenkins,python,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,prometheus,grafana,sentry,bash,gcp,terraform,ansible,aws,jenkins,python,nginx,cloudflare)](https://skillicons.dev)
+
+[![Others](https://skillicons.dev/icons?i=notion,md,vscodium,ubuntu,arch)](https://skillicons.dev)
