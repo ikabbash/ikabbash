@@ -1,7 +1,6 @@
 <div align="center">
     <img alt="Logo" src="images/logo.svg" width="100" />
 </div>
-<br/>
 
 <hr />
 
