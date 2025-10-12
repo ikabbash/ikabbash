@@ -2,9 +2,6 @@
     <img alt="Logo" src="images/logo.svg" width="100" />
 </div>
 <br/>
-<div align="center">
-    "You can't understand what you can do until you do it."
-</div>
 
 <hr />
 
