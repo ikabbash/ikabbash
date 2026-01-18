@@ -4,10 +4,6 @@
 
 <hr />
 
-DevOps Engineer at [eSpace](https://espace.com.eg/).
-
-Constantly learning, innovating, and pushing boundaries.
-
 <p>
     <a target="_blank"href="https://ikabbash.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode" /></a>&nbsp;&nbsp;
     <a target="_blank"href="https://medium.com/@ikabbash"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium" /></a>&nbsp;&nbsp;
