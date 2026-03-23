@@ -6,8 +6,6 @@
 
 <p>
     <a target="_blank"href="https://ikabbash.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://medium.com/@ikabbash"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://dev.to/ikabbash"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to" /></a>&nbsp;&nbsp;
     <!-- <a target="_blank"href="https://github.com/ikabbash"><img alt="Github" src="https://img.shields.io/github/followers/ikabbash?label=follow&style=flat-square" /></a>&nbsp;&nbsp; -->
 </p>
 
@@ -37,4 +35,5 @@
 </div>
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,prometheus,grafana,sentry,bash,gcp,gitlab,terraform,ansible,aws,jenkins,python,nginx,mysql,postgres,redis,kafka,cloudflare,notion,md,vscodium,ubuntu,arch)](https://skillicons.dev)
+<!-- Reference: https://github.com/LelouchFR/skill-icons -->
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,helm,docker,azure,prometheus,grafana,sentry,bash,gcp,gitlab,azuredevops,terraform,ansible,aws,jenkins,python,nginx,mysql,postgresql,redis,kafka,cloudflare,notion,md,vscodium,ubuntu,arch,cachyos,)](https://go-skill-icons.vercel.app)
