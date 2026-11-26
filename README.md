@@ -13,8 +13,12 @@
 
 ### Certifications
 <div>
-    <a href="https://www.credly.com/badges/f3c433e8-28c8-4466-8b6b-21402ebeecde">
-        <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws">
+    <a href="https://www.credly.com/badges/223a2eec-642c-4f64-adb7-a356faece82c">
+        <img src="https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=flat-square&logo=google-cloud">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.credly.com/badges/78af68be-2cfc-48e6-aa0f-de8c6760408e">
+        <img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=google-cloud">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.credly.com/badges/2f4403b1-9814-4485-bba4-c4be45b5d64f">
@@ -25,12 +29,11 @@
         <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.credly.com/badges/78af68be-2cfc-48e6-aa0f-de8c6760408e">
-        <img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=google-cloud">
-    </a>
-    &nbsp;&nbsp;
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/IbrahimKabbash-7790/E12E8E020E37BF41?sharingId">
         <img src="https://img.shields.io/badge/Azure-AI--900%20Certified-0078D4?style=flat-square&logo=microsoft-azure">
+    </a>
+    <a href="https://www.credly.com/badges/f3c433e8-28c8-4466-8b6b-21402ebeecde">
+        <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws">
     </a>
 </div>
 
